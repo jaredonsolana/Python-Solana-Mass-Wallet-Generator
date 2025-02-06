@@ -24,6 +24,10 @@ A Python-based tool for generating multiple Solana wallets quickly and efficient
 pip install -r requirements.txt
 ```
 
+```bash
+python setup.py
+```
+
 ## Usage
 
 Run the script using Python:
